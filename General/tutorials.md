@@ -1,5 +1,6 @@
 
 # Video: Introduction to Generative AI
+### Duration: 22 mins.
 
 [Introduction to Generative AI](https://youtu.be/G2fqAlgmoPo?si=_lz_RTmqMDH39GeB)
 <br>
