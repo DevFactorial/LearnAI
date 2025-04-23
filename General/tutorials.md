@@ -8,8 +8,8 @@
 
 > [!NOTE]
 > What you will learn in this video?
-<br>
-This video gives a gentle intro to Artificial Intelligence, Machine Learning, Deep Learning and Generative AI. It expains what are Foundation Models and the types of Generative AI models.
+>
+> This video gives a gentle intro to Artificial Intelligence, Machine Learning, Deep Learning and Generative AI. It expains what are Foundation Models and the types of Generative AI models.
 
 
 ## Video: Introduction to Context Length
@@ -21,8 +21,8 @@ This video gives a gentle intro to Artificial Intelligence, Machine Learning, De
 
 > [!NOTE]
 > What you will learn in this video?
-<br>
-This video explains Context Length and its inner working using concepts like Self Attention in Transformer architecture.
+>
+> This video explains Context Length and its inner working using concepts like Self Attention in Transformer architecture.
 
 ## Video: Introduction to Prompting Techniques
 #### Duration: 4 mins.
@@ -33,5 +33,5 @@ This video explains Context Length and its inner working using concepts like Sel
 
 > [!NOTE]
 > What you will learn in this video?
-<br>
-This video explains Zero Shot, One Shot and Few Shot Prompting Techniques.
+>
+> This video explains Zero Shot, One Shot and Few Shot Prompting Techniques.
