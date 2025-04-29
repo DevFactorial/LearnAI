@@ -25,13 +25,37 @@
 > This video explains Context Length and its inner working using concepts like Self Attention in Transformer architecture.
 
 ## Video: Introduction to Prompting Techniques
-#### Duration: 4 mins.
+#### Duration: 10 mins.
 
-[Introduction to Prompting Techniques](https://www.youtube.com/watch?v=sW5xoicq5TY)
+[Introduction to Prompting Techniques](https://www.youtube.com/watch?v=sZIV7em3JA8)
 <br>
 ![Introduction to Prompting Techniques](images/prompting_1.png)
 
 > [!NOTE]
 > What you will learn in this video?
 >
-> This video explains Zero Shot, One Shot and Few Shot Prompting Techniques.
+> This video explains Zero Shot, Few Shot and Chain of Thought Prompting Techniques.
+
+## Video: Word and Sentence Embeddings
+#### Duration: 8 mins.
+
+[Word and Sentence Embeddings](https://www.youtube.com/watch?v=A8HEPBdKVMA)
+<br>
+![Word and Sentence Embeddings](images/embeddings_1.png)
+
+> [!NOTE]
+> What you will learn in this video?
+>
+> This video explains the concept of embeddings and how embeddings are calculated for words and sentences.
+
+## Video: Similarity Between Sentences
+#### Duration: 8 mins.
+
+[Similarity Between Sentences](https://www.youtube.com/watch?v=B3jS_aUEicY)
+<br>
+![Similarity Between Sentences](images/sentence_sim.png)
+
+> [!NOTE]
+> What you will learn in this video?
+>
+> This video explains how embeddings can be used compute similarity between sentences.
