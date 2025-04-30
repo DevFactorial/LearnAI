@@ -77,7 +77,7 @@
 
 [Introduction to Retrieval Augmented Generation](https://www.youtube.com/watch?v=u47GtXwePms)
 <br>
-![Introduction to Retrieval Augmented Generation](images/rag1.png)
+![Introduction to Retrieval Augmented Generation](images/rag.png)
 
 > [!NOTE]
 > What you will learn in this video?
