@@ -49,7 +49,7 @@
 > This video explains the concept of embeddings and how embeddings are calculated for words and sentences.
 
 ## Video: Similarity Between Sentences
-#### Duration: 8 mins.
+#### Duration: 7 mins.
 
 [Similarity Between Sentences](https://www.youtube.com/watch?v=B3jS_aUEicY)
 <br>
@@ -59,3 +59,39 @@
 > What you will learn in this video?
 >
 > This video explains how embeddings can be used compute similarity between sentences.
+
+## Video: Introduction to a Vector Database
+#### Duration: 9 mins.
+
+[Introduction to a Vector Database](https://www.youtube.com/watch?v=gl1r1XV0SLw)
+<br>
+![Introduction to a Vector Database](images/vectordb1.png)
+
+> [!NOTE]
+> What you will learn in this video?
+>
+> This video explains what is a Vector Database.
+
+## Video: Introduction to Retrieval Augmented Generation (RAG)
+#### Duration: 11 mins.
+
+[Introduction to Retrieval Augmented Generation](https://www.youtube.com/watch?v=u47GtXwePms)
+<br>
+![Introduction to Retrieval Augmented Generation](images/rag1.png)
+
+> [!NOTE]
+> What you will learn in this video?
+>
+> This video explains how Retrieval Augmented Generation works.
+
+## Video: Details of Retrieval Augmented Generation (RAG) 
+#### Duration: 15 mins.
+
+[Details of Retrieval Augmented Generation](https://www.youtube.com/watch?v=1EYVt1axmfg)
+<br>
+![Details of Retrieval Augmented Generation](images/rag2.png)
+
+> [!NOTE]
+> What you will learn in this video?
+>
+> This video explains working of Retrieval Augmented Generation works.
