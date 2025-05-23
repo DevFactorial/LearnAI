@@ -24,6 +24,32 @@
 >
 > This video explains Context Length and its inner working using concepts like Self Attention in Transformer architecture.
 
+## Task: LLM Leader Boards
+#### Duration: 10 mins.
+
+LLM Leaderboards is a platform that ranks and compares different LLMs based on their performance on various benchmarks. It provides a standardized way to assess and compare models across different tasks like text generation, question answering, and code generation. 
+
+Look at the two leaderboards provided below and understand the various state of the art models available and on what basis are they compared. 
+
+- [Vellum AI Leaderboard](https://www.vellum.ai/llm-leaderboard)
+<br>
+![Vellum AI Leaderboard](images/vellum_board.png)
+
+- [EvalPlus AI Leaderboard](https://evalplus.github.io/leaderboard.html)
+<br>
+![EvalPlus AI Leaderboard](images/evalplus_board.png)
+
+
+
+[Introduction to Prompting Techniques](https://www.youtube.com/watch?v=sZIV7em3JA8)
+<br>
+![Introduction to Prompting Techniques](images/prompting_1.png)
+
+> [!NOTE]
+> What you will learn in this video?
+>
+> This video explains Zero Shot, Few Shot and Chain of Thought Prompting Techniques.
+
 ## Video: Introduction to Prompting Techniques
 #### Duration: 10 mins.
 
