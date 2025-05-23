@@ -30,9 +30,10 @@
 LLM Leaderboards is a platform that ranks and compares different LLMs based on their performance on various benchmarks. It provides a standardized way to assess and compare models across different tasks like text generation, question answering, and code generation. 
 
 Look at the two leaderboards provided below and understand the various state of the art models available and on what basis are they compared. 
+The AI leaderboard also has list of providers, who host the models.
 
 - [Vellum AI Leaderboard](https://www.vellum.ai/llm-leaderboard)
-- [EvalPlus AI Leaderboard](https://evalplus.github.io/leaderboard.html)
+- [AI Leaderboard](https://artificialanalysis.ai/leaderboards/providers)
 
 
 ## Video: Introduction to Prompting Techniques
